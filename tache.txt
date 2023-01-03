@@ -1,0 +1,65 @@
+-- A ajouter lors de l'inscription -- 
+FAIT 1- Récupérer l'id_u
+FAIT 2- Rentrer l'id_u avec le role 'Utilisateur' dans la table possède
+FAIT 3- Rentrer l'id_j et l'id_m dans la table joue
+FAIT 4- Remplir la table participe lorsque qu'un user dans la page concours.php clique sur 'je participe'
+
+
+-- PARCOURS UTILISATEUR -- 
+FAIT 1- Page accueil
+FAIT 2- Je veux participer au jeu ou aux élections
+FAIT 3- Je dois m'inscrire ou me connecter 
+4- Une fois ma connexion valider je peux :
+FAIT    4.1- Participer au concours en cliquant sur participer pour le match
+FAIT    4.2- Participer au vote en cliquant sur voter pour le match
+5- Je me modifier mes données de mon compte ou supprimer mon compte
+
+-- PARCOURS ADMIN -- 
+FAIT1- Page d'accueil
+2- Je rentre les données qui s'afficheront pour les utilisateurs
+FAIT    2.1- Je crée les équipes
+FAIT    2.2- Je crée les rencontres de telle et telle équipe à telle date et telle heure
+FAIT    2.3- Je rentre les joueurs et les gardiens de chaque équipe
+3- Je peux récupérer différents fichiers 
+FAIT    3.1- La liste des équipes 
+FAIT    3.2- Le liste des joueurs
+4- Je peux aller sur la page de jeu concours
+FAIT    4.1- Pour récupérer la liste des participants pour chaque match
+        4.2- Je peux récupérer la liste en PDF
+FAIT        4.3- Pour tirer au sort 2 noms de la BDD
+FAIT5- Je peux aller sur la page de vote pour afficher qui le résultat du meilleur joueur et du meilleur gardien 
+
+-- PLUS -- 
+FAIT 1- Ajouter les normes RGPD en pied de page
+2- Faire tout le CSS
+
+
+
+CRUD sur le 'mon compte' + PDF 
+
+
+
+By signing up, you agree to the Terms and Conditions and Privacy Policy. California residents, see our CA Privacy Notice.
+AGREE and SIGN UP
+
+
+
+style page : 
+elir
+elir anglais
+elir espagnol
+inscription
+inscription anglais
+inscription espagnol
+
+gagnant
+admin
+liste
+liste équipes
+liste joueurs
+modifier e
+modifier j
+participe
+résultat
+résultat vote
+
